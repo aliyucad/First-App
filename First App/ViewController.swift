@@ -34,7 +34,3 @@ class ViewController: UIViewController {
 
 }
 
-//hdsıjnsdınds
-saeleknmsonawomdw
-adjknwsjnqwd
-eklnqwdkom
